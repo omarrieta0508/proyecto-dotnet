@@ -1,0 +1,14 @@
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\mi-proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\mi-proyecto.AssemblyInfoInputs.cache
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\mi-proyecto.AssemblyInfo.cs
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\mi-proyecto.csproj.CoreCompileInputs.cache
+C:\AOAT\mi-proyecto-dotnet\bin\Debug\net9.0\mi-proyecto.exe
+C:\AOAT\mi-proyecto-dotnet\bin\Debug\net9.0\mi-proyecto.deps.json
+C:\AOAT\mi-proyecto-dotnet\bin\Debug\net9.0\mi-proyecto.runtimeconfig.json
+C:\AOAT\mi-proyecto-dotnet\bin\Debug\net9.0\mi-proyecto.dll
+C:\AOAT\mi-proyecto-dotnet\bin\Debug\net9.0\mi-proyecto.pdb
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\mi-proyecto.dll
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\refint\mi-proyecto.dll
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\mi-proyecto.pdb
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\mi-proyecto.genruntimeconfig.cache
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net9.0\ref\mi-proyecto.dll

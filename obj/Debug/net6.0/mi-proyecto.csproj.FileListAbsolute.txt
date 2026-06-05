@@ -1,0 +1,4 @@
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net6.0\mi-proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net6.0\mi-proyecto.AssemblyInfoInputs.cache
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net6.0\mi-proyecto.AssemblyInfo.cs
+C:\AOAT\mi-proyecto-dotnet\obj\Debug\net6.0\mi-proyecto.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\AOAT\mi-proyecto-dotnet\bin\Release\net9.0\publish\mi-proyecto.exe
+C:\AOAT\mi-proyecto-dotnet\bin\Release\net9.0\publish\mi-proyecto.dll
+C:\AOAT\mi-proyecto-dotnet\bin\Release\net9.0\publish\mi-proyecto.deps.json
+C:\AOAT\mi-proyecto-dotnet\bin\Release\net9.0\publish\mi-proyecto.runtimeconfig.json
+C:\AOAT\mi-proyecto-dotnet\bin\Release\net9.0\publish\mi-proyecto.pdb
